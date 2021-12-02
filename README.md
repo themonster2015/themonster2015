@@ -21,6 +21,8 @@ const themonster2015 = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jen-vo-89bbb74b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jen-vo-89bbb74b/" height="30" width="40" /></a>
+ <a href="https://themonster2015.github.io" target="blank"><img align="center" src="https://static.thenounproject.com/png/3486483-200.png" alt="themonster2015.github.io" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
