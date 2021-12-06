@@ -10,7 +10,7 @@
 const themonster2015 = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+  code: [JavaScript, React, Redux, Ruby on Rails, SQL, HTML/CSS, Semantic UI, Bootstrap],
   askMeAbout: [Vietnam, New Age topics, web development],
   challenge: "I am improving my resilience level",
   funFacts: ['I have 8+ years of remote work experience as a freelance writer', 
