@@ -14,7 +14,7 @@ const themonster2015 = {
   askMeAbout: [Vietnam, New Age topics, web development],
   challenge: "I am improving my resilience level",
   funFacts: ['I have 8+ years of remote work experience as a freelance writer', 
-  'I can't live without coffee']
+  'I can't live without good coffee']
 }
 ```
 
