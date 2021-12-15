@@ -13,7 +13,7 @@ const themonster2015 = {
   code: [JavaScript, React, Redux, Ruby on Rails,CSS, SQL, HTML/CSS, Semantic UI, Bootstrap],
   askMeAbout: [Vietnam, New Age topics, web development],
   challenge: "I am improving my resilience level",
-  funFacts: ['I have 8+ years of remote work experience as a freelance writer', 
+  funFacts: ['I have 8+ years of remote work experience as a freelance writer and also did some digital marketing on the side', 
   'I can't live without good coffee']
 }
 ```
