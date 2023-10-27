@@ -1,5 +1,5 @@
 
-<h1 class="center">Hello 👋, I am ✨Vo Thi Quynh Yen✨ <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<h1 class="center">Hello 👋, I am ✨Yen✨ <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <p><em>Remote Full-stack web developer ready for an awesome adventure ahead </em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
