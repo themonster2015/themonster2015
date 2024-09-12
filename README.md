@@ -1,7 +1,7 @@
 
 <h1 class="center">Hello 👋, I am ✨Yen✨ <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-<p><em>Remote Full-stack web developer ready for an awesome adventure ahead </em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Trader, web developer, writer </em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
 ### ABOUT ME
@@ -12,9 +12,9 @@ const themonster2015 = {
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails,CSS, SQL, HTML/CSS, Semantic UI, Bootstrap],
   askMeAbout: [Vietnam, New Age topics, web development],
-  challenge: "I am improving my resilience level",
-  funFacts: ['I have 8+ years of remote work experience as a freelance writer and also did some digital marketing on the side', 
-  'I can't live without good coffee']
+  challenge: "Abandon things that interfere with the spiritual path",
+  funFacts: ['Sometimes I love animals more than people', 
+  'If the seasons keep coming back, day comes after night, tide in and tide out, what makes you think you only live once?']
 }
 ```
 
